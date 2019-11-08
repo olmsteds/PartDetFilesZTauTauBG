@@ -221,7 +221,7 @@ DeltaEtaVsDeltaPhiLeadSubl   200   0      10.   72   0    +3.15
 
 //------------------------------------------------//
 
-FillDiJet 0
+FillDiJet 1
 
 DiJetDeltaR           200   0    10.
 DiJetDeltaEta         200   0    10.

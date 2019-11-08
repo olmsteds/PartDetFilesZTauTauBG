@@ -32,7 +32,7 @@ LeadTrackThreshold 3.0
 
 DoDiscrByIsolation true
 //1 = VLoose, 2 = Loose, 4 = Medium, 8 = Tight, 16 = VTight, 32 = VVTight
-DiscrByMinIsolation 1.
+DiscrByMinIsolation 1
 DiscrByMaxIsolation 16
 FlipIsolationRequirement false
 DiscrByProngType true
