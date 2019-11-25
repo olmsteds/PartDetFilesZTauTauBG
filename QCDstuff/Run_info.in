@@ -17,11 +17,11 @@ ApplyGenWeight  true
 
 ///------Triggers-----///
 
-Trigger1FirstRequirement HLT_DoubleMediumIsoPFTau
-Trigger1SecondRequirement HLT_DoubleMediumCombinedIsoPFTau
+Trigger1FirstRequirement HLT_DoubleTightCombinedIsoPFTau40_Trk1_eta2p1
+Trigger1SecondRequirement HLT_DoubleTightCombinedIsoPFTau40_Trk1_eta2p1
 
-Trigger2FirstRequirement HLT_DoubleMediumIsoPFTau
-Trigger2SecondRequirement HLT_DoubleMediumCombinedIsoPFTau
+Trigger2FirstRequirement HLT_DoubleTightCombinedIsoPFTau40_Trk1_eta2p1
+Trigger2SecondRequirement HLT_DoubleTightCombinedIsoPFTau40_Trk1_eta2p1
 
 ///---Treat Muon as Neutrino---///
 
