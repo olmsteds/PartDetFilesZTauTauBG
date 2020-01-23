@@ -86,7 +86,7 @@ LeadTrackThreshold 5.0
 DoDiscrByIsolation true
 //1 = VLoose, 2 = Loose, 4 = Medium, 8 = Tight, 16 = VTight, 32 = VVTight
 DiscrByMinIsolation 1
-DiscrByMaxIsolation 16
+DiscrByMaxIsolation 4
 FlipIsolationRequirement false
 DiscrByProngType true
 ProngType  1or3hps
