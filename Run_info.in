@@ -18,10 +18,10 @@ ApplyGenWeight  true
 ///------Triggers-----///
 
 Trigger1FirstRequirement HLT_DoubleMediumIsoPFTau
-Trigger1SecondRequirement HLT_DoubleMediumCombinedIsoPFTau
+Trigger1SecondRequirement HLT_DoubleMediumIsoPFTau
 
 Trigger2FirstRequirement HLT_DoubleMediumIsoPFTau
-Trigger2SecondRequirement HLT_DoubleMediumCombinedIsoPFTau
+Trigger2SecondRequirement HLT_DoubleMediumIsoPFTau
 
 ///---Treat Muon as Neutrino---///
 

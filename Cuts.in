@@ -32,28 +32,25 @@ NGenTau		0  -1
 ***NRecoTriggers1     1   -1   ///events must fire the HLT_IsoMu24 trigger
 ***NRecoTau1          2   2
 ***NRecoTau2          2   2
+***NRecoMuon1            0    0
 ***NRecoElectron1        0   0
 NRecoElectron2        0   0
-***NRecoMuon1            0    0
+***NDiTauCombinations      1   -1
 NRecoMuon2            0    0
-NDiMuonCombinations	   0   -1
-METCut	      0   -1   ///met cut
-
-
-NRecoCentralJet	      0   -1
-NRecoTriggers2	      0   -1           ///only 0 or 1
-NRecoSecondLeadingJet 0   -1    ///only 0 or 1
-NDiElectronCombinations	   0   -1
-***NRecoBJet             0   0
-***NDiTauCombinations	   1   -1
+***METCut        0   -1   ///met cut
 ***NRecoJet1             2   -1
 ***NRecoJet2             2   -1
-***NDiJetCombinations    1   -1
-
-
-NRecoFirstLeadingJet       0   -1   ///only 0 or 1  
-NRecoSecondLeadingJet 	   0   -1    ///only 0 or 1
+NRecoCentralJet       0   -1
+NRecoFirstLeadingJet       0   -1   ///only 0 or 1
+NRecoSecondLeadingJet      0   -1    ///only 0 or 1
+***NDiTauCombinations      1   -1
 NLeadJetCombinations       0   -1   ///only 0 or 1
+***NRecoBJet             0   0
+NDiMuonCombinations        0   -1
+NDiElectronCombinations    0   -1
+
+
+
 NMuon1Tau1Combinations        0   -1
 NMuon1Tau2Combinations 	      0   -1
 NMuon2Tau1Combinations 	      0   -1
@@ -66,7 +63,7 @@ NMuon1Electron1Combinations   0   -1
 NMuon1Electron2Combinations   0   -1
 NMuon2Electron1Combinations   0   -1
 NMuon2Electron2Combinations   0   -1
-
+NRecoTriggers2        0   -1           ///only 0 or 1
 
 
 
