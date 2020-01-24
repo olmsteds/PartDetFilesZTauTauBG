@@ -9,9 +9,9 @@ DiscrByOSLSType  OS	#### OS or LS
 DiscrByCosDphi	 false
 CosDphiCut 	 -1.00   -0.80
 
-DiscrByMassReco  true
+DiscrByMassReco  false
 HowCalculateMassReco  VectorSumofVisProductsAndMet       ###VectorSumOfVisProductsAndMet   or    CollinearApprox 
-MassCut          120.0   9999.9
+MassCut          0.0   120.0
 
 DiscrByCDFzeta2D          false
 PZetaCutCoefficient       1.0

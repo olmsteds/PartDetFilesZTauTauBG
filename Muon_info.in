@@ -2,7 +2,7 @@
             Smear
 /////////////////////////////////
 
-SmearTheParticle 1
+SmearTheParticle 0
 PtScaleOffset 1.
 PtResolutionOffset 1.
 EtaScaleOffset 1.
@@ -56,7 +56,7 @@ DoDiscrByTightID 1
 DoDiscrBySoftID 0
 
 DoDiscrByIsolation 1
-IsoSumPtCutValue 0.0 0.2
+IsoSumPtCutValue 0.0 0.15
 
 //----MET TOPOLOGY CUTS----//
 
