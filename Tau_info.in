@@ -32,11 +32,11 @@ LeadTrackThreshold 3.0
 
 DoDiscrByIsolation true
 //1 = VLoose, 2 = Loose, 4 = Medium, 8 = Tight, 16 = VTight, 32 = VVTight
-DiscrByMinIsolation ZERO
-DiscrByMaxIsolation 8
+DiscrByMinIsolation 0
+DiscrByMaxIsolation 16
 FlipIsolationRequirement false
 DiscrByProngType true
-ProngType  1hps
+ProngType  1or3hps
 decayModeFindingNewDMs false
 decayModeFinding true
 
@@ -84,11 +84,11 @@ LeadTrackThreshold 5.0
 
 DoDiscrByIsolation true
 //1 = VLoose, 2 = Loose, 4 = Medium, 8 = Tight, 16 = VTight, 32 = VVTight
-DiscrByMinIsolation 8
+DiscrByMinIsolation 16
 DiscrByMaxIsolation 1
 FlipIsolationRequirement false
 DiscrByProngType true
-ProngType  1hps
+ProngType  1or3hps
 decayModeFindingNewDMs false
 decayModeFinding true
 

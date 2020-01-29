@@ -10,7 +10,7 @@ DiscrByCosDphi	 false
 CosDphiCut 	 -1.00   -0.80
 
 DiscrByMassReco  false
-HowCalculateMassReco  VectorSumofVisProductsAndMet       ###VectorSumOfVisProductsAndMet   or    CollinearApprox 
+HowCalculateMassReco  VectorSumOfVisProductsAndMet       ###VectorSumOfVisProductsAndMet   or    CollinearApprox 
 MassCut          120.0   9999.9
 
 DiscrByCDFzeta2D          false
