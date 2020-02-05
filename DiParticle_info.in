@@ -2,7 +2,7 @@
               DiTau
 #######################################
 
-DiscrByDeltaR  true
+DiscrByDeltaR  false
 DeltaRCut      0.3
 
 DiscrByOSLSType  OS	#### OS or LS
